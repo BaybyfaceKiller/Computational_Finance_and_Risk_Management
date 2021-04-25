@@ -21,4 +21,8 @@ and 1 idiosyncratic scenario for each systemic), non-Normal distribution of loss
 and 1 idiosyncratic scenario for each systemic), non-Normal distribution of losses)
 ## Project 4: Asset Pricing
 Obtain prices of the European option from Monte Carlo simulations
+## Project 5: Risk Management, Portfolio Optimization and Factor Models for stock market during 2019-2020
+Part1: Portfolio risk in stock market
+Part2: Portfolio optimization in stock market
+Part3: Fama-French three-factor model for stock market
 
